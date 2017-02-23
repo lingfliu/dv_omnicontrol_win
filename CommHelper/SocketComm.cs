@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dv_omnicontrol
+namespace CommHelper
 {
-    class SocketCommHelper
-    {
+    public class SocketComm
+    {        
     }
 }

@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace dv_omnicontrol
 {
     /// <summary>
@@ -23,6 +24,7 @@ namespace dv_omnicontrol
         public MainWindow()
         {
             InitializeComponent();
+            CommHelper.SocketComm sktComm;            
         }
     }
 }
